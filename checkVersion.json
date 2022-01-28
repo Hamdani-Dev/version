@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "SELECT 4 records",
+  "data": {
+    "versionCode": 3,
+    "versionName": "2.1"
+  }
+}
